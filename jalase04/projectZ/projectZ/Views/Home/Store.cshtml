@@ -1,0 +1,34 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<table dir="rtl">
+    <tr>
+        <th>کد محصول</th>
+        <th>نام محصول</th>
+        <th>مشخصات فنی</th>
+        <th>معرفی اجمالی</th>
+        <th>دسته بندی</th>
+        <th>موجودی</th>
+        <th>قسمت</th>
+    </tr>
+    @{
+        foreach(var item in Model)
+        {
+            <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Specification</td>
+            <td>@item.Description</td>
+            <td>@item.Category</td>
+            <td>@item.Exist</td>
+            <td>@item.Price</td>
+            </tr>
+        }
+    }
+      <tr>
+    <td colspan="6">جمع کل</td>
+	<td>@ViewBag.Sum</td>
+  </tr>
+</table>
