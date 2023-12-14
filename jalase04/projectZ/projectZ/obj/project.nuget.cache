@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nua4E+CQNvo5XxeWMzBCtO0ntvVksKIRmdLgACbkgA4DcmkUQj3a3b/600k/R/baAbYgXbAzgtTmt3fmSWng1Q==",
+  "dgSpecHash": "killwNRnPNwuIoNSU9sYW9/TC5SoeDfYzAFj4nFz7jLWSTuBTp5mR/sZ7JPZPu8dI2CztrKszp2xgNOhd/ieIQ==",
   "success": true,
-  "projectFilePath": "D:\\دانشگاه\\کارشناسی\\ترم 02\\08 برنامه نویسی سمت سرور\\jalase 01\\projectZ\\projectZ\\projectZ.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Downloads\\RR\\jalase04\\projectZ\\projectZ\\projectZ.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
