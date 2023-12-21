@@ -1,0 +1,87 @@
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\projectZ\projectZ\bin\Debug\net6.0\appsettings.Development.json
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\projectZ\projectZ\bin\Debug\net6.0\appsettings.json
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\projectZ\projectZ\bin\Debug\net6.0\projectZ.staticwebassets.runtime.json
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\projectZ\projectZ\bin\Debug\net6.0\projectZ.exe
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\projectZ\projectZ\bin\Debug\net6.0\projectZ.deps.json
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\projectZ\projectZ\bin\Debug\net6.0\projectZ.runtimeconfig.json
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\projectZ\projectZ\bin\Debug\net6.0\projectZ.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\projectZ\projectZ\bin\Debug\net6.0\ref\projectZ.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\projectZ\projectZ\bin\Debug\net6.0\projectZ.pdb
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\projectZ\projectZ\obj\Debug\net6.0\projectZ.csproj.AssemblyReference.cache
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\projectZ\projectZ\obj\Debug\net6.0\projectZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\projectZ\projectZ\obj\Debug\net6.0\projectZ.AssemblyInfoInputs.cache
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\projectZ\projectZ\obj\Debug\net6.0\projectZ.AssemblyInfo.cs
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\projectZ\projectZ\obj\Debug\net6.0\projectZ.csproj.CoreCompileInputs.cache
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\projectZ\projectZ\obj\Debug\net6.0\projectZ.MvcApplicationPartsAssemblyInfo.cache
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\projectZ\projectZ\obj\Debug\net6.0\projectZ.RazorAssemblyInfo.cache
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\projectZ\projectZ\obj\Debug\net6.0\projectZ.RazorAssemblyInfo.cs
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\projectZ\projectZ\obj\Debug\net6.0\staticwebassets.build.json
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\projectZ\projectZ\obj\Debug\net6.0\staticwebassets.development.json
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\projectZ\projectZ\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\projectZ\projectZ\obj\Debug\net6.0\scopedcss\bundle\projectZ.styles.css
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\projectZ\projectZ\obj\Debug\net6.0\scopedcss\projectbundle\projectZ.bundle.scp.css
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\projectZ\projectZ\obj\Debug\net6.0\projectZ.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\projectZ\projectZ\obj\Debug\net6.0\ref\projectZ.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\projectZ\projectZ\obj\Debug\net6.0\projectZ.pdb
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\projectZ\projectZ\obj\Debug\net6.0\projectZ.genruntimeconfig.cache
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\appsettings.Development.json
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\appsettings.json
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\projectZ.staticwebassets.runtime.json
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\projectZ.exe
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\projectZ.deps.json
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\projectZ.runtimeconfig.json
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\projectZ.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\ref\projectZ.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\projectZ.pdb
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\obj\Debug\net6.0\projectZ.csproj.AssemblyReference.cache
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\obj\Debug\net6.0\projectZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\obj\Debug\net6.0\projectZ.AssemblyInfoInputs.cache
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\obj\Debug\net6.0\projectZ.AssemblyInfo.cs
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\obj\Debug\net6.0\projectZ.csproj.CoreCompileInputs.cache
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\obj\Debug\net6.0\projectZ.MvcApplicationPartsAssemblyInfo.cache
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\obj\Debug\net6.0\projectZ.RazorAssemblyInfo.cache
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\obj\Debug\net6.0\projectZ.RazorAssemblyInfo.cs
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\obj\Debug\net6.0\staticwebassets.build.json
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\obj\Debug\net6.0\staticwebassets.development.json
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\obj\Debug\net6.0\scopedcss\bundle\projectZ.styles.css
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\obj\Debug\net6.0\scopedcss\projectbundle\projectZ.bundle.scp.css
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\obj\Debug\net6.0\projectZ.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\obj\Debug\net6.0\ref\projectZ.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\obj\Debug\net6.0\projectZ.pdb
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\obj\Debug\net6.0\projectZ.genruntimeconfig.cache
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\Humanizer.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\دانشگاه\کارشناسی\ترم 02\08 برنامه نویسی سمت سرور\jalase 01\projectZ\projectZ\obj\Debug\net6.0\projectZ.csproj.CopyComplete
